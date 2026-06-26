@@ -1,4 +1,4 @@
-# Ember
+# Ember Theme
 
 > This Obsidian theme is inspired by the Ember colorscheme. Ember's original palette and design credits belong to its creator(s).
 
