@@ -1,7 +1,7 @@
 {
 	"name": "Ember Theme",
-	"version": "1.0.0",
-	"minAppVersion": "1.0.0",
+	"version": "1.0.1",
+	"minAppVersion": "1.0.1",
 	"author": "Haris Pasha Dipto",
 	"authorUrl": "https://github.com/hpdipto/obsidian-ember"
 }
